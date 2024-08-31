@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# except
+!.gitignore
+!Baedoor_Data.esm
+!Textures/bae/
+!Meshes/bae/
+!Icons/bae/
