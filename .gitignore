@@ -4,6 +4,7 @@
 # except
 !.gitignore
 !Baedoor_Data.esm
+!MWSE/mods/BaedoorData/
 !Textures/bae/
 !Meshes/bae/
 !Icons/bae/
